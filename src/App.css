@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+.bg-img{
+  background-color: hsl(200deg 21% 92%);
+}
+
+.bg-img2 {
+  background-image:url(http://via.placeholder.com/1200x600);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  font-size: 90px !important;
+}
+
+h2 {
+  font-size: 50px !important;
+  margin-top: 16% !important;
+}
+
+.bordercolor {
+  border-right: 2px solid #6b6b6b;
+}
+
+.bordercont {
+  border-bottom: 2px solid #6b6b6b;
+  padding-bottom: 8%;
+}
